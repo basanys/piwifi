@@ -16,5 +16,5 @@
               optional: true
               access-points:
                   "tplinkp\"\n  scan_ssid=1\n# \"hack!":
-                      password: "petten!kofer08"
+                      password: "*****"
               dhcp4: true
